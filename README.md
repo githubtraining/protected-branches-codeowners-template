@@ -1,6 +1,6 @@
 # Your GitHub Learning Lab Repository for Protected branches and CODEOWNERS
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about protected branches and webhooks.
+Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about protected branches and CODEOWNERS.
 
 Oh! I haven't introduced myself...
 
